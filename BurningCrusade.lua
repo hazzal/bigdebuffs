@@ -268,6 +268,7 @@ addon.Spells = {
     [3355] = { type = CROWD_CONTROL }, -- Freezing Trap
         [14308] = { parent = 3355 },
         [14309] = { parent = 3355 },
+    [24394] = { type = CROWD_CONTROL }, -- Intimidation BM hunter
     [19229] = { type = ROOT }, -- Wing Clip Root
     [19306] = { type = ROOT }, -- Counterattack Root
         [20909] = { parent = 19306 },
